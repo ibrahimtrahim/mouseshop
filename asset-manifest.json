@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ibrahimtrahim/mouseshop.git/static/css/main.ec79875f.css",
+    "main.js": "/ibrahimtrahim/mouseshop.git/static/js/main.fca6e110.js",
+    "index.html": "/ibrahimtrahim/mouseshop.git/index.html",
+    "main.ec79875f.css.map": "/ibrahimtrahim/mouseshop.git/static/css/main.ec79875f.css.map",
+    "main.fca6e110.js.map": "/ibrahimtrahim/mouseshop.git/static/js/main.fca6e110.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec79875f.css",
+    "static/js/main.fca6e110.js"
+  ]
+}
